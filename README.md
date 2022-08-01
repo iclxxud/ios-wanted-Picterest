@@ -42,30 +42,22 @@
 ## 기능 소개
 
 ### Demo Gif
+
   - ImagesView 메인 화면
 
- <p float="left">
-  <img src= "Picterest/Resource/Images/main.gif" width="300"/>
-</p>
+ <p float="left"><img src= "Picterest/Resource/images/main.gif" width="300"/> </p>
 
-</p>
  - ImagesView Alert
 
-    <p float="left">
-  <img src= "Picterest/Resource/Images/alert.gif" width="300"/>
-</p>
+ <p float="left"><img src= "Picterest/Resource/images/alert.gif" width="300"/></p>
 
   - SavedView
   
-   <p float="left">
-  <img src= "Picterest/Resource/Images/savedView.gif" width="300"/>
-</p>
+   <p float="left"><img src= "Picterest/Resource/images/savedView.gif" width="300"/></p>
 
  - 파일 다운 성공
 
-  <p float="left">
-  <img src= "Picterest/Resource/images/스크린샷 2022-07-30 오후 11.09.16.png" width="600"/>
-</p>
+  <p float="left"><img src= "Picterest/Resource/images/스크린샷 2022-07-30 오후 11.09.16.png" width="600"/></p>
 
 
 ## 사용한 Pattern 소개
